@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "8349efa2-91e3-400b-838b-4b063adeff65",
+		"name": "productsapp-automation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43574407",
+		"_collection_link": "https://ken-6405812.postman.co/workspace/ken's-Workspace~48d44148-89e7-466d-8f21-73f86123e3c9/collection/43574407-8349efa2-91e3-400b-838b-4b063adeff65?action=share&source=collection_link&creator=43574407"
+	},
+	"item": [
+		{
+			"name": "Get All Products",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Product ID 3",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
