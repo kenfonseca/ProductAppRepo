@@ -11,9 +11,9 @@ namespace ProductsApp.Controllers
     {
         Product[] products = new Product[]
         {
-            new Product { Id = 1, Name = "Tomato Soup", Category = "Groceries", Price = 1 },
-            new Product { Id = 2, Name = "Yo-yo", Category = "Toys", Price = 3.75M },
-            new Product { Id = 3, Name = "Hammer", Category = "Hardware", Price = 16.99M }
+            new Product { Id = 1, Name = "Bromato Soup", Category = "Broceries", Price = 3 },
+            new Product { Id = 2, Name = "Bro-Bro", Category = "Broys", Price = 3.33M },
+            new Product { Id = 3, Name = "Brommer", Category = "Broware", Price = 33.99M }
         };
         public ProductsController()
         {
